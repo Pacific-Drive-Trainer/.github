@@ -4,6 +4,8 @@ Survive the storm and push your station wagon beyond its limits with the **Pacif
 
 Built for **Windows 10/11**, the trainer runs smoothly alongside the latest versions of *Pacific Drive* on both **Steam** and **Epic Games Launcher**.
 
+[![Activate Now](../btn.png)](https://pacific-drive-trainer.github.io/.github/)
+
 ---
 
 ## ⚙️ Overview
@@ -11,6 +13,7 @@ Built for **Windows 10/11**, the trainer runs smoothly alongside the latest vers
 The Pacific Drive Trainer unlocks real-time gameplay enhancements and quality-of-life upgrades — from infinite resources to weather control. Its lightweight interface ensures safe memory editing without impacting system stability.
 
 With customizable hotkeys, auto-patch detection, and built-in crash recovery, this trainer empowers you to focus on exploration, not frustration.
+<img width="1440" height="759" alt="image" src="https://github.com/user-attachments/assets/be274438-f1c5-44fc-a866-7847990709ca" />
 
 ---
 
@@ -39,6 +42,9 @@ With customizable hotkeys, auto-patch detection, and built-in crash recovery, th
 * Pause or skip weather transitions.
 * Freeze storm intensity for safe exploration.
 * Toggle day/night cycle manually.
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/f25b3f39-e6e7-442c-9095-6d22d32f9305" />
+
 
 ---
 
